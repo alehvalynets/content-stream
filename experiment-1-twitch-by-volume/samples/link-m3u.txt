@@ -1,0 +1,3 @@
+https://vod-secure.twitch.tv/d7ff7bb869e74680418f_kugothemighty_31447054224_1034066320/160p30/index-muted-CUVXGO93HG.m3u8
+https://vod.edgecast.hls.ttvnw.net/d7ff7bb869e74680418f_kugothemighty_31447054224_1034066320/360p30/index-muted-CUVXGO93HG.m3u8
+
